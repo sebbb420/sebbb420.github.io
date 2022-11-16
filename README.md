@@ -1,7 +1,4 @@
 # Welcome to sebbb420's GitHub Page
 ---
-My Top 3 Games
-- Grand Theft Auto V: Online
-- Call of Duty: Black Ops Cold War
-- Call of Duty: Modern Warfare 2019 
-![image](https://user-images.githubusercontent.com/118144889/202070545-861bbde2-b657-4d91-8e38-db2f6ddbd196.png)
+My PlayStation Account
+![image](https://user-images.githubusercontent.com/118144889/202071382-152f46b8-3820-4ebb-ae75-513a22f1fd05.png)
