@@ -16,9 +16,9 @@ My PlayStationNetwork (PSN) Account
 This game has multiple gamemodes for you to play such as Warzone 2.0 and Multiplayer
 - Warzone 2.0
 <object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/v/AyPzM5WK8ys" />
+  <param name="movie" value="https://www.youtube.com/watch?v=_cA0oO1WMxo" />
   <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/v/AyPzM5WK8ys"
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
