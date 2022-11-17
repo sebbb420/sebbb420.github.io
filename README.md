@@ -5,4 +5,4 @@ My PlayStationNetwork (PSN) Account
 
 What Is PlayStation?
 - Playstation is a video game console developed by Sony. The first PlayStation was released in 1994, followed by PlayStation 2 (PS2) in 2000, PlayStation 3 (PS3) in 2006, PlayStation 4 (PS4) in 2013, and lastly, the next generation PlayStation 5 (PS5) in 2020.
-- I Currently have the PlayStation 4 (PS4), It is nearly ten years old but the PS4 still is in great condition and can handle most of all the games nowadays very smoothly.
+- Why is PlayStation so successful? They created a platform that delivered great value to users and developers, which led them to become leaders in a completely new industry for Sony. The success was huge: PlayStation and PlayStation 2 sold more that 100 and 155 million units respectively, becoming the 2 best selling gaming consoles so far.
