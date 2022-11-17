@@ -10,15 +10,14 @@ My PlayStationNetwork (PSN) Account
 
 
 **My Top 3 Games in PlayStation so far**
+
 - Call of Duty: Modern Warfare II
+
 ![image](https://user-images.githubusercontent.com/118144889/202324863-1c4fbf2e-bf6d-4d7e-ae2d-f13283a8a940.png)
+
 - Call of Duty: Modern Warfare II is a first-person shooter video game developed by Infinity Ward for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, and Microsoft Windows. It is the nineteenth game in the Call of Duty franchise, and the sequel to Call of Duty: Modern Warfare. Its logo was revealed on April 28th, 2022 the game was released on October 28th, 2022.
+- 
 This game has multiple gamemodes for you to play such as Warzone 2.0 and Multiplayer
 - Warzone 2.0
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=_cA0oO1WMxo" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<a href="https://www.youtube.com/watch?v=_cA0oO1WMxo" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="![image](https://user-images.githubusercontent.com/118144889/202327635-eb762dfc-79eb-4d4b-8c93-419f9275ffab.png)" width="240" height="180" border="10" /></a>
