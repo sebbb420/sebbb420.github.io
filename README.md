@@ -20,3 +20,7 @@ My PlayStationNetwork (PSN) Account
 This game has multiple gamemodes for you to play such as Warzone 2.0 and Multiplayer
 - Warzone 2.0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_cA0oO1WMxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Call of Duty: Warzone 2.0 is a free-to-play battle royale video game for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S.[1] It is a sequel to 2020's Call of Duty: Warzone. The game is a part of 2022's Call of Duty: Modern Warfare II but does not require purchase of the aforementioned title. It was introduced during Season 1 of Modern Warfare II content. The game features cross-platform play and a new extraction mode titled DMZ.[2]
+
+Warzone 2.0 was officially revealed by Activision at Call of Duty Next in September 2022, was released on November 16, 2022, and is part of a single cross-game launcher known as Call of Duty HQ.
