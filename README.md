@@ -30,4 +30,12 @@ Warzone 2.0 was officially revealed by Activision at Call of Duty Next in Septem
 - Multiplayer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fB0TzTiAztE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The Multiplayer of Call of Duty: Modern Warfare II brings many changes compared the previous Call of Duty: Modern Warfare Multiplayer. One of the big changes is the complete revamp in the Gunsmith. Now weapons are grouped into “Platforms”, allowing for complete control over the weaponry that the player bring into matches. This allows the player to unlock new weapons and have attachments shared between weapons of a platform and universal attachments that will be shared for all weapons in the game.
 
+The Perks system changed compared to past games. Now has a system called Perk Packages. This consists of four Perks, two base, plus two more known as a “Bonus” and “Ultimate.” All are earned during a Multiplayer match. Kills, assists, objective and tactical plays can unlock these more quickly.
+
+The game also brings a realistic combat in the vehicles. Now, the player can destroy vehicle sections, like bumpers, doors and Blowing out tires. Different vehicles are available for use on the Ground War maps.
+
+Call of Duty: Modern Warfare II also brings the possibility of Swimming and Aquatic Combat. Different of Call of Duty: Modern Warfare, now the player will be able to swim. On the Ground War maps, there are also water vehicles that will allowed a better mobility.
+
+The new movement options introduced in Call of Duty: Modern Warfare, like Tactical Sprint and Mounting are back, and now with a new one added, the Dive to Prone, returning from past games, that works together with Sliding. Another new movement option, is the Ledge Hang, which this allows the player peek from a Mantle and look around. If the player has any Handgun equipped as a secondary, they can use it when in Ledge Hang.
