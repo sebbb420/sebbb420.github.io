@@ -43,4 +43,5 @@ The new movement options introduced in Call of Duty: Modern Warfare, like Tactic
 
 - Grand Theft Auto V: Online
 
-![image](https://user-images.githubusercontent.com/118144889/203445954-99bb113a-078f-4d78-800b-f4a80658a636.png)
+![image](https://user-images.githubusercontent.com/118144889/203446270-c3600317-fde6-4777-bdcc-8081902d66fd.png)
+
