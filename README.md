@@ -50,3 +50,33 @@ Grand Theft Auto Online, more commonly known as GTA Online, is a story-driven on
 This game has ALOT of fun missions or modes for you to experience.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olEGtoYs_8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Heist missions were initially added to Grand Theft Auto Online as part of the Heists Update, released on March 10th, 2015. They were later expanded, albeit in the enhanced versions of the game only, as part of The Doomsday Heist, The Diamond Casino Heist and The Cayo Perico Heist updates.
+
+In terms of overall structure, they are similar to the heists found in Grand Theft Auto V, in that they involve a series of setup missions that culminate in a high-profit crime. However, unlike GTA V, heists are set up by one of the players taking part (dubbed the Heist Leader); this player has to pay a sum of money up-front to finance the job, but can also dictate how the final profits will be split among the participants.
+
+The Cayo Perico Heist
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tyDRtSUYTRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+“Prepare to infiltrate the remote island compound of the world’s most notorious drug dealer in Grand Theft Auto Online’s biggest, most daring, and action-packed addition yet: The Cayo Perico Heist. It’s up to you to find a way to breach Cayo Perico, one of the most secure private islands in the entire world, evade or neutralize the heavily armed security forces stationed there, and escape with valuable evidence along with as much art, gold and drug money as you can carry. Choose your tools. Choose your approach. Choose your crew – or even go it entirely alone. Just make it back to Los Santos in one piece.”
+— Rockstar Newswire
+The Cayo Perico Heist is a heist added with the GTA Online: The Cayo Perico Heist update for Grand Theft Auto Online on December 15, 2020.
+
+The GTA Online Protagonist is tasked by Miguel Madrazo to retrieve vital information from Juan "El Rubio" Strickler, leader of a cartel rivaling the Madrazo Cartel. After purchasing a submarine and being a CEO/VIP/MC President, the player travels to Cayo Perico alongside English Dave disguised as a tour manager. The player then sneaks around the island and discovers the location of the data by hacking their security system, as well as finding various side loot like paintings, weed, cocaine, cash and gold.
+
+The Contract
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLUGHQq2aek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+“Introducing The Contract, a New GTA Online Story Featuring Franklin Clinton and Friends. Get Ready for a New Adventure with Dr. Dre, Plus New Music, and Much More Coming December 15.”
+— Rockstar Newswire.
+“In the years since he and his accomplices knocked over the Union Depository, renowned Los Santos hustler Franklin Clinton has been making moves of his own.
+Welcome to F. Clinton and Partner, a new “celebrity solutions agency” catering to the Vinewood elite in need of solutions to high-society problems.
+Franklin needs two things: a reliable partner and a big-ticket, high-profile client. With your longtime LS contact — and newly aspiring cannabis entrepreneur — Lamar Davis making the connection, you can be the partner that helps Franklin take the business to the next level.
+Meanwhile on the other side of the city, DJ Pooh has been reaching out to Franklin about an exciting potential client: his close friend, Dr. Dre.
+Lost in the shuffle on his way to Cayo Perico last year, it turns out Dr. Dre’s phone isn’t just missing — it’s in the wrong hands. Not only that, but the phone also contains the hottest property in the city: new, unreleased music from Dr. Dre himself. This could be the big break your agency needs.
+Get ready for a wild and hilarious ride through Los Santos, from the mean streets of Franklin’s old neighborhood to the hottest parties in the city, from debaucherous mansions to the offices of the FIB and everywhere in between as you join Franklin, expert hacker Imani, Chop the Dog, and crew to secure Dr. Dre’s precious tracks and return them to their rightful owner.”
+— Rockstar Newswire.
+
+The Diamond Casino Heist
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUmKwJD76GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+“The Diamond Casino Heist is an all-new approach to Heist architecture and execution: one huge gameplay-packed operation as you work with the Cheng family to infiltrate the most secure building in all of Los Santos. Featuring a diverse range of opportunities for set-up and prep missions that shape your plan of attack, multiple paths of approach, constantly changing security measures and a dizzying array of choices once inside. Expect outcomes for you and your crew to change on the fly as you deal with each new situation, leading to more choices mid-mission. Even if the best laid plans go sideways, you’ll have the opportunity to keep the mission afloat without failing by shooting your way out with your remaining team lives, all allowing the Heist to be highly replayable with new scenarios unfolding each time.” - Rockstar Newswire
