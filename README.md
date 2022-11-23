@@ -45,3 +45,4 @@ The new movement options introduced in Call of Duty: Modern Warfare, like Tactic
 
 ![image](https://user-images.githubusercontent.com/118144889/203446270-c3600317-fde6-4777-bdcc-8081902d66fd.png)
 
+Grand Theft Auto Online, more commonly known as GTA Online, is a story-driven online multiplayer action-adventure game developed by Rockstar North and published by Rockstar Games. The game was originally released on October 1, 2013, accessed for free through Grand Theft Auto V. A standalone version of the game was released on March 15th, 2022, [3] along with the PlayStation 5 and Xbox Series X|S versions of GTA V and GTA Online. It is the sixteenth and latest instalment in the Grand Theft Auto series and the sixth HD Universe title of the series.
