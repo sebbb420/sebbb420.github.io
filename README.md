@@ -16,15 +16,19 @@ My PlayStationNetwork (PSN) Account
 ![image](https://user-images.githubusercontent.com/118144889/202324863-1c4fbf2e-bf6d-4d7e-ae2d-f13283a8a940.png)
 
  Call of Duty: Modern Warfare II is a first-person shooter video game developed by Infinity Ward for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, and Microsoft Windows. It is the nineteenth game in the Call of Duty franchise, and the sequel to Call of Duty: Modern Warfare. Its logo was revealed on April 28th, 2022 the game was released on October 28th, 2022.
+ 
+Running on a new version of the IW engine, multiplayer mode supports cross-platform multiplayer and features a free-to-play battle royale mode, Warzone 2.0, a follow-up to the original Warzone.
 
-This game has multiple gamemodes for you to play such as Campaign, Warzone 2.0, and Multiplayer
+Modern Warfare II received generally favorable reviews from critics. It was a commercial success and broke several records for the series, including becoming the fastest Call of Duty game to generate US$1 billion in revenue
+
+This game has multiple gamemodes for you to play such as Campaign, Warzone 2.0, and Multiplayer.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tnsOrbljnK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  Campaign
  <iframe width="560" height="315" src="https://www.youtube.com/embed/r72GP1PIZa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- "From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside TF141 in a globe-trotting single-player campaign."
+ "From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside TF141 in a globe-trotting single-player campaign." Like its predecessor, the game takes place in a realistic and modern setting. The campaign follows British special forces unit Task Force 141 and Mexican Special Forces unit Los Vaqueros as they attempt to track down Iranian Quds Force major and terrorist Hassan Zyani. The game's main playable characters are John "Soap" MacTavish and Kyle "Gaz" Garrick of Task Force 141.
  
  Warzone 2.0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_cA0oO1WMxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -86,3 +90,29 @@ The Diamond Casino Heist
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UUmKwJD76GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 “The Diamond Casino Heist is an all-new approach to Heist architecture and execution: one huge gameplay-packed operation as you work with the Cheng family to infiltrate the most secure building in all of Los Santos. Featuring a diverse range of opportunities for set-up and prep missions that shape your plan of attack, multiple paths of approach, constantly changing security measures and a dizzying array of choices once inside. Expect outcomes for you and your crew to change on the fly as you deal with each new situation, leading to more choices mid-mission. Even if the best laid plans go sideways, you’ll have the opportunity to keep the mission afloat without failing by shooting your way out with your remaining team lives, all allowing the Heist to be highly replayable with new scenarios unfolding each time.” - Rockstar Newswire
+
+
+- Call of Duty: Black Ops Cold War
+
+![image](https://user-images.githubusercontent.com/118144889/203876996-1a22ed83-9afe-4749-977a-0add10d6acba.png)
+
+Call of Duty: Black Ops Cold War is a 2020 first-person shooter video game developed by Treyarch and Raven Software and published by Activision. It was released worldwide on November 13, 2020, for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S. It serves as the sixth installment in the Black Ops series and the seventeenth installment in the overall Call of Duty series. The game is the second Call of Duty title since 2011's Modern Warfare 3 to be co-developed by two studios.
+
+The game was originally developed by Raven and Sledgehammer Games and not intended to be an entry in the Black Ops subseries. However, the development suffered from disagreements among the two teams, resulting in Activision placing Treyarch in charge of the game's development in 2019, with Raven acting as a co-developer to them. Marketing for the game began in August 2020 and was done in different forms, including certain content creators receiving slide projectors, puzzles made to be solved online by fans, and a website showcasing historical Cold War events. A public multiplayer beta for the game was also made live in October 2020. Black Ops Cold War received generally favorable reviews from critics, with praise for the campaign, multiplayer, and zombies, while criticizing its technical issues and lack of innovation. It became the best-selling game of 2020 in the US.
+
+This game has multiple game modes for you to play such as Campaign, Multiplayer, and Zombies.
+
+Campaign
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTS9n_m7TW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Black Ops Cold War's campaign is set during the early 1980s of the Cold War, taking place between Call of Duty: Black Ops (2010) and Black Ops II (2012) chronologically. It is centered around a pursuit of the alleged Soviet spy Perseus, whose stated goal is to subvert the United States and tilt the balance of power toward the Soviet Union. For the campaign, the player takes control of "Bell", who is recruited by CIA officer Russell Adler into a multinational task force created to hunt down Perseus. The campaign also sees the return of Black Ops characters Alex Mason, Frank Woods, and Jason Hudson, with Mason also being the playable character in certain missions.
+
+Multiplayer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k7Um0RShjio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Multiplayer features new and returning game modes, as well as maps that accommodate both the traditional 6v6 format, as well as larger 12v12 combat. The game also introduced a new game mode named "Fireteam", which can support up to 40 players.[5] The Create-a-Class system from Modern Warfare returns, with two major differences: field upgrades are implemented as part of class loadouts, and each class has a wildcard choice out of four possible ones: Gunfighter (allows up to 8 primary weapon attachments), Perk Greed (allows 2 perks from each perk type for a total of 6 usable perks), Danger Close (double grenade equipment), or Lawbreaker (allows mixing and matching any weapon/perk type in any slot).[2] Like Modern Warfare, Cold War also support cross-platform play and cross-platform progression.
+
+Zombies
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qua2QEFCBm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Zombies features a new storyline titled "Dark Aether" which expands on the original Aether story, concluded in Black Ops 4, while also staying true to the main narrative of the campaign. Instead of playing as predefined characters, players can take on the role of Operator characters from Multiplayer, as part of a CIA response team codenamed "Requiem". Progression from Multiplayer is shared with Zombies, as players are able to use any weapon to start a Zombies match, alongside Gunsmith, scorestreaks and field upgrades, in addition to returning mechanics such as wallbuys, the Mystery Box, Pack-a-Punch and past fan-favorite Perks. For the first time in Zombies, players can opt to "exfil" the map, which will put them in a difficult wave with increased enemy spawn that they must survive before they can escape. Collectible intels are also scattered around the playable maps, allowing players to keep track of and unfold the main story as they progress.[7] A skill upgrade system is featured in the game, allowing players to enhance weapons, perks, ammo mods and field upgrades with Aetherium Crystals, a currency acquired from reaching round milestones. A new game mode, Onslaught, was introduced exclusively to PlayStation players until November 1, 2021. In this mode, which are played within Multiplayer maps, up to 2 players defend areas grounded off by the Dark Aether orb, which must be powered by zombie kills. Sufficient kills will move the orb to new positions, forcing the players to move or die outside of the orb's protection zone.[8] The Season Two update introduces "Outbreak", a large-scale mode where players fight off zombie hordes and complete objectives in an open-world area, composed of locations featured in the larger Multiplayer modes.
