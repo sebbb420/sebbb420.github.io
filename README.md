@@ -17,9 +17,14 @@ My PlayStationNetwork (PSN) Account
 
  Call of Duty: Modern Warfare II is a first-person shooter video game developed by Infinity Ward for PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, and Microsoft Windows. It is the nineteenth game in the Call of Duty franchise, and the sequel to Call of Duty: Modern Warfare. Its logo was revealed on April 28th, 2022 the game was released on October 28th, 2022.
 
-This game has multiple gamemodes for you to play such as Warzone 2.0 and Multiplayer
+This game has multiple gamemodes for you to play such as Campaign, Warzone 2.0, and Multiplayer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tnsOrbljnK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ Campaign
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/r72GP1PIZa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ "From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside TF141 in a globe-trotting single-player campaign."
+ 
  Warzone 2.0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_cA0oO1WMxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
