@@ -20,6 +20,7 @@ My PlayStationNetwork (PSN) Account
 This game has multiple gamemodes for you to play such as Campaign, Warzone 2.0, and Multiplayer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tnsOrbljnK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
  Campaign
  <iframe width="560" height="315" src="https://www.youtube.com/embed/r72GP1PIZa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
